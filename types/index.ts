@@ -52,3 +52,7 @@ export interface ShowMorePops {
     pageNumber:number,
     isNext:boolean
 }
+
+export interface HomeProps {
+    searchParams:FilterProps
+}
