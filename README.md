@@ -17,7 +17,7 @@
     <img src="public/logo.png" alt="Logo" width="240" height="160">
   </a>
 
-<h3 align="center">Drive Royale Showcase App</h3>
+<h3 align="center">Drive Royal Showcase App</h3>
 
   <p align="center">
     A web platform, designed to provide you with a seamless and enjoyable experience as you navigate through the world of automobiles. 
