@@ -71,7 +71,11 @@ Navigate through the app with ease, utilizing intuitive search and smart filters
 Immerse yourself in the world of each car with detailed
 technical specifications and performance metrics.  Enjoy the high-resolution visuals, showcasing the elegance and power of each vehicle from different angles.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br />
+<div align="left">
+  <a href="https://github.com/elviraIv/drive-royale-showcase-app">
+    <img src="public/overoll-pressed.png" alt="project" >
+  </a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
